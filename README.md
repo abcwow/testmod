@@ -1,0 +1,2 @@
+# testmod
+hello go modules
